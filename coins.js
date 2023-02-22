@@ -11,6 +11,6 @@ const coins = [
   'Lincoln',
   'Jefferson'
 ];
-
+module.exports = coins
 // your code
 // export the coins array
